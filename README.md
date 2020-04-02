@@ -9,7 +9,7 @@ Contains the code for structurl analysis of the cantilever beam using mesh-less 
 New methods of nodal distribution are introduced in the code.
 
 # Project_2020
-Contains pdf, TeX source of the project report, final report in article format and the 2-page summary.
+Contains TeX source of the project report, final report in article format and pptx.
 
 # Matlab_2020
 Contains the code for structural optimization using mesh-less methods.
