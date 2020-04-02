@@ -13,4 +13,4 @@ Contains TeX source of the project report, final report in article format and pp
 
 # Matlab_2020
 Contains the code for structural optimization using mesh-less methods.
-readme is provided inside.
+Changes introduced are provided in a separate readme inside.
