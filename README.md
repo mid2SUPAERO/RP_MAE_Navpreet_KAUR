@@ -1,4 +1,4 @@
-# navpreet2112
+# RP_Navpreet_KAUR
 Meshless methods for structural analysis and optimiation
 
 # Project_2019
